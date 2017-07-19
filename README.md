@@ -9,7 +9,7 @@ AIM: To inject RequestInterface in Interactor_Impl class</br>
 4 Create APIModule to return RequestInterface object</br>
 5 Create APIComponent</br>
 6 Inject both components in Application class</br>
-7 Create a method within Interface</br>
+7 Create a method within Interactor Interface</br>
 </br>
 public void initiateInjectionGraph(APIComponent apiComponent);</br>
 </br>
